@@ -1,0 +1,197 @@
+.wrapper{
+    background-color: rgb(255, 255, 255);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 2px;
+    display: flex;
+    flex-direction: column;
+}  
+.caja {
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+}
+.cajaNOR {
+   background-color: rgb(255, 255, 255);
+   padding: 10px;
+  margin: 10px;
+   display: flex;
+    justify-content: center;
+}
+.cajaBUSQ {
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    padding-bottom: 5px;
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+}
+.cajaIMAG {
+    background-color: rgb(255, 255, 255);
+    padding-left: 20px;
+    margin-left: 20px;
+    display: flex;
+    flex-direction: row;
+}
+.loguito {
+    background-color: rgb(255, 255, 255);
+    width: auto;
+    height: auto;
+    margin-right: auto;
+}
+.cajitas {
+    background-color: rgba(0, 0, 0, 0);
+    height: 30px;
+    width: auto;
+}
+.espacio {
+    background-color: rgb(255, 255, 255);
+    padding-left: auto;
+}
+.espacioPEQ {
+    background-color: rgb(255, 255, 255);
+    padding-left: 10px;
+}
+.buscador{
+        background-color: rgb(0, 0, 0);
+        height: 50px;
+        width: 341px;
+        margin-left: auto;
+}
+
+.elemBUSQ{
+    background-color: rgb(255, 255, 255);
+    width: 70px;
+    height: 50px;
+    border-radius: 10px;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.imagen{
+    background-color: rgb(0, 0, 0);
+    width: 270px;
+    height: 256px;
+    border-radius: 20px;
+}
+.espacioIMAG{
+        background-color: rgb(255, 255, 255);
+        padding-left: 20px;
+}
+.noseaa{
+    background-color: rgba(0, 0, 0, 0);
+    
+    border-radius: 5px;
+}
+.logoimg{
+    width: 100px;
+    height: 70px;
+}
+.elembusqimg{
+    width: 24px;
+    height: 24px;
+    flex-direction: column;
+}
+.textoic1{
+margin-top: 10px;
+font-size: 12px;
+color: black;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+flex-direction: column;
+}
+.casasimg{
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    border-radius: 20px;
+}
+.textoc1{
+    margin-top: none;
+    font-size: 12px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    flex-direction: column;
+    font-weight: bold;
+}
+
+.imgtext {
+    background-color: rgba(17, 0, 255, 0);
+    width: 270px;
+    height: 330px;
+    
+}
+.textoc2{
+    margin-top: none;
+    font-size: 12px;
+    color: rgb(122, 120, 120);
+    font-family: Arial, Helvetica, sans-serif;
+    flex-direction: column;
+}
+.barrota{
+    background-color: rgb(255, 255, 255);
+    width: 700px;
+    height: 60px;
+    border-radius: 40px;
+    display: flex;
+    flex-direction: row;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #cccccc;
+    align-items: center;
+}
+.columnsearch01{
+    display: flex;
+    flex-direction: column;
+    padding-left: 32px;
+    padding-top: 14px;
+    align-items: flex-start;
+    width: 284px;
+}
+.columnsearch02{
+    display: flex;
+    flex-direction: column;
+    padding-left: 24px;
+    padding-top: 14px;
+    align-items: flex-start;
+    width: 140px;
+}
+.columnsearch03{
+    display: flex;
+    flex-direction: column;
+    padding-left: 24px;
+    padding-right: 32px;
+    padding-top: 14px;
+    align-items: flex-start;
+    width: 284px;
+}
+.line {
+    height: 32px;
+    border-right-width: 1px;
+    border-right-color: #cccccc;
+    border-right-style: solid;
+}
+.searchtitle{
+    font-family: 'AirbnbCereal_W_Md', sans-serif;
+    font-size: 13px;
+    padding: 0%;
+    color: rgb(34, 34, 34);
+    padding-top: 0px;
+}
+.searchsubtitle{
+    font-family: 'AirbnbCereal_W_Md', sans-serif;
+    font-size: 14px;
+    padding: 0%;
+    color: rgb(103, 103, 103);
+    height: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.imgbusq{
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+}
